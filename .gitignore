@@ -23,4 +23,13 @@ reference_paper.pdf
 __pycache__/
 *.pyc
 
-results/
+results/*
+!results/som_plots_bottle/
+results/som_plots_bottle/*
+!results/som_plots_bottle/bottle_activation_map.png
+!results/som_plots_bottle/bottle_u_matrix.png
+
+!results/comparisons/
+results/comparisons/*
+!results/comparisons/bottle_005_comparison.png
+!results/comparisons/wood_002_comparison.png

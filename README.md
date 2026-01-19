@@ -24,8 +24,8 @@ Below are examples of anomaly localization on the MVTec dataset. The model gener
 ### Anomaly Localization Examples
 | Category | Input & Ground Truth & Anomaly Map |
 | :--- | :---: |
-| **Bottle** | ![Bottle](results/comparisons/bottle_000_comparison.png)
-| **Metal Nut** | ![Metal Nut](results/comparisons/metal_nut_001_comparison.png)
+| **Bottle** | ![Bottle](results/comparisons/bottle_005_comparison.png)
+| **Wood** | ![Wood](results/comparisons/wood_002_comparison.png)
 
 ### SOM Diagnostics (Bottle Category)
 The Self-Organizing Map provides insights into the learned feature distribution.
