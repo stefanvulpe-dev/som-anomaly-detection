@@ -1,5 +1,8 @@
 mvtec_anomaly_detection/
 # tex generated files
+*.tex
+*.sty
+*.bib
 *.aux
 *.bbl
 *.blg
